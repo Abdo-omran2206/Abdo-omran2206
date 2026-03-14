@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm a Frontend Developer and Video Editor passionate about creating fast, engaging digital experiences. I blend design sense with engineering to build responsive, accessible interfaces that feel polished and alive, complete with fluid animations and interactivity.<br><br>With a focus on performance, clean architecture, and pixel-perfect execution, I ensure products work seamlessly across devices. Beyond code, I craft video edits that balance pacing, motion, sound, and story—capturing attention and communicating with clarity.<br><br>Turning ideas into immersive, high‑performance experiences ✨</p>
+<p align="center">I'm a Frontend Developer and Video Editor passionate about creating fast, engaging digital experiences. I blend design sense with engineering to build responsive, accessible interfaces that feel polished and alive, complete with fluid animations and interactivity.<br><br>With a focus on performance, clean architecture, and pixel-perfect execution, I ensure products work seamlessly across devices. Beyond code, I craft video edits that balance pacing, motion, sound, and story—capturing attention and communicating with clarity.<br><br>Turning ideas into immersive, high‑performance experiences ✨</p>
 
 ###
 
@@ -96,12 +96,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-omran2206&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdo-omran2206&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-omran2206&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdo-omran2206&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="180" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdo-omran2206&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Abdo-omran2206/Abdo-omran2206/output/snake.svg" alt="Snake animation" />
 
